@@ -1,2 +1,2 @@
 ＃PythonTraining
-*** A Python Training
+* A Python Trainin
